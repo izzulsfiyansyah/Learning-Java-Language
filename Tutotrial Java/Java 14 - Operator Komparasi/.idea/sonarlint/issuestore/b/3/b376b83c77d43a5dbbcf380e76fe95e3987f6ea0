@@ -1,0 +1,37 @@
+
+p
+java:S1192@"SDefine a constant instead of duplicating this literal " %d <= %d --> %s 
+" 3 times.(ÑÒ™ä8øûä•ä1
+u
+java:S1192Q"SDefine a constant instead of duplicating this literal " %d >= %d --> %s 
+" 3 times.(™ ¿Ñùÿÿÿÿ8ğûå•ä1
+A
+java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8¤¼•ä1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(³ç®Ôùÿÿÿÿ8¦¼•ä1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(³ç®Ôùÿÿÿÿ8§¼•ä1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ç’¼¶8¡¨¤•ä1
+n
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(Ç’¼¶8¢¨¤•ä1
+s
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(øúÆÚøÿÿÿÿ8ç«°•ä1
+s
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(øúÆÚøÿÿÿÿ8é«°•ä1
+s
+java:S34574"Q%n should be used in place of \n to produce the platform-specific line separator.(Üòÿèÿÿÿÿÿ8ù°»•ä1
+s
+java:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(Üòÿèÿÿÿÿÿ8ú°»•ä1
+n
+java:S3457@"Q%n should be used in place of \n to produce the platform-specific line separator.(ÑÒ™ä8²†Ì•ä1
+n
+java:S3457E"Q%n should be used in place of \n to produce the platform-specific line separator.(ÑÒ™ä8“üä•ä1
+n
+java:S3457J"Q%n should be used in place of \n to produce the platform-specific line separator.(ÑÒ™ä8“üä•ä1
+s
+java:S3457Q"Q%n should be used in place of \n to produce the platform-specific line separator.(™ ¿Ñùÿÿÿÿ8”üä•ä1
+s
+java:S3457V"Q%n should be used in place of \n to produce the platform-specific line separator.(™ ¿Ñùÿÿÿÿ8•üä•ä1
+s
+java:S3457["Q%n should be used in place of \n to produce the platform-specific line separator.(™ ¿Ñùÿÿÿÿ8Šüå•ä1

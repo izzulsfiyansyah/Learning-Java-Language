@@ -1,0 +1,11 @@
+
+h
+java:S1192	"FDefine a constant instead of duplicating this literal "hallo" 3 times.(•Αι’ϋÿÿÿÿ8Ο¥½έο1
+m
+java:S1192 "KDefine a constant instead of duplicating this literal "kataString" 3 times.(χΉΞΝύÿÿÿÿ8Τ¥½έο1
+l	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ρ©ώ78Υ¥½έο1
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϋ±©„ÿÿÿÿÿ8Υ¥½έο1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘χή¨ωÿÿÿÿ8Υ¥½έο1
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Χÿÿÿÿÿ8Υ¥½έο1
+=
+java:S2129@" Remove this "String" constructor(–ΦΓ‹8”¦½έο1
